@@ -308,21 +308,12 @@ The main generated artifacts include:
 
 | File or folder | Description |
 |---|---|
-| `voting_comparison.csv` | Cross-validation comparison of Soft Voting and Weighted Voting. |
-| `test_metrics_summary.csv` | Detailed final test metrics for all eight models. |
 | `final_model_comparison.csv` | Final comparison table. |
-| `final_model_ranking.csv` | Compact model ranking table. |
 | `comparison_main_metrics.png` | Comparison of Accuracy, Macro F1, and Balanced Accuracy. |
 | `comparison_sensitivity_specificity.png` | Comparison of Sensitivity and Specificity. |
 | `comparison_error_rates.png` | Comparison of FPR, FDR, and FNR. |
-| `comparison_roc_auc.png` | ROC-AUC comparison chart. |
-| `roc_curves_test_set.png` | ROC curves for all eight models. |
 | `test_f1_macro_comparison.png` | Test-set Macro F1 comparison. |
 | `confusion_matrices/` | Individual confusion matrix images. |
-| `classification_reports/` | Individual classification reports. |
-| `final_comparison_summary.txt` | Text summary of the final comparison. |
-
-Only include files and folders in the GitHub repository that you have actually exported or copied from the Kaggle working directory.
 
 ## 12. Tools and Libraries
 
